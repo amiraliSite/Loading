@@ -1,4 +1,19 @@
 # React + Vite
+welcom to website [loading]()
+
+
+
+این لودینگ شامل:
+✅ 4 حلقه سه‌بعدی با چرخش‌های مختلف
+✅ 1 هسته درخشان با تغییر رنگ
+✅ 8 نقطه مداری چرخان
+✅ 6 مکعب شناور سه‌بعدی
+✅ 20 ذره پس‌زمینه متحرک
+✅ 7 حرف متحرک با افکت موج
+✅ 1 نوار پیشرفت رنگین‌کمانی
+✅ 3 نقطه پرشی
+مجموع: 50+ المان متحرک با انیمیشن‌های مختلف! 🚀
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
